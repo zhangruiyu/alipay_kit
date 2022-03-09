@@ -56,5 +56,5 @@ dependencies {
     implementation 'androidx.annotation:annotation:1.0.0'
 
     // v15.8.03
-    vendorImplementation(name: 'alipaysdk-15.8.06.211122170115', ext: 'aar')
+    vendorImplementation(name: 'alipaysdk-noutdid-15.8.08.220217103139', ext: 'aar')
 }
